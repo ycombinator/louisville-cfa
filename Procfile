@@ -1,2 +1,1 @@
-web: node http-proxy-server.js
-worker: node dashboard-be/app.js
+web: node app.js
